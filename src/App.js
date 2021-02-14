@@ -9,10 +9,16 @@ function App() {
     setValue(e.target.value);
   };
   return (
-    <div>
-      <textarea value={value} onChange={handleChange}></textarea>
-      <Result>{value}</Result>
-    </div>
+    <main>
+      <section class="markdown">
+        <textarea
+          class="input"
+          value={value}
+          onChange={handleChange}
+        ></textarea>
+        <Result>{value}</Result>
+      </section>
+    </main>
   );
 }
 

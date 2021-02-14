@@ -1,1 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.markdown {
+  padding: 4rem;
+  display: grid;
+  row-gap: 4rem;
+}
 
+.input {
+  padding: 1rem 2rem;
+  font-size: 1.2rem;
+  line-height: 2;
+  border-color: transparent;
+  border-radius: 0.5rem;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+}
