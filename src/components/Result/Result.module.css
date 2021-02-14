@@ -2,6 +2,7 @@
   padding: 1rem 2rem;
   text-transform: capitalize;
   color: rgba(41, 41, 41, 0.829);
+  line-height: 2.5rem;
 }
 h1 {
   font-size: 2.5rem;
@@ -36,18 +37,4 @@ ol {
 
 p {
   font-size: 1.4rem;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-ul,
-ol,
-li,
-p,
-code {
-  padding: 2px 0;
 }
