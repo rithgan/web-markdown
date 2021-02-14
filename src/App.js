@@ -10,9 +10,9 @@ function App() {
   };
   return (
     <main>
-      <section class="markdown">
+      <section className="markdown">
         <textarea
-          class="input"
+          className="input"
           value={value}
           onChange={handleChange}
         ></textarea>
