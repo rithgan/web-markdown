@@ -2,7 +2,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Project Link 
-[Link](justanothermarkdowneditor.netlify.app)
+[Link](https://justanothermarkdowneditor.netlify.app)
 
 ## Available Scripts
 
